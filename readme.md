@@ -1,4 +1,4 @@
 # Hey, Welcome
 Here I'll be making Clocks Whose Theme is inspired by many Different Wallpapers.
 
-Click here to <a href="https://imlolman.github.io/From-Wallpaper-To-Clock">View Them Online</a>
+View Them Online <a href="https://imlolman.github.io/From-Wallpaper-To-Clock">https://imlolman.github.io/From-Wallpaper-To-Clock</a>
